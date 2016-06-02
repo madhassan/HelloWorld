@@ -2,6 +2,6 @@
 
 Hello there !
 
-I am just started exploring this platform ! and learning how to do it. So Lets see how it goes !
+I am just started exploring this platform ! and learning how to do it.
 
--Just another repository 
+Just another repository 
